@@ -36,4 +36,4 @@ function isPalindrome(str){
             return false;
          }
 }
-isPalindrome('0110')
+isPalindrome('madam')
